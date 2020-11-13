@@ -3,14 +3,14 @@
   "version": "0.1.22",
   "description": "a template for basic js packages",
   "main": "src/index.js",
-  "author": "aliatsis@salesforce.com",
+  "author": "anthony.liatsis@gmail.com",
   "license": "MIT",
-  "homepage": "https://github.com/relateiq/piller",
+  "homepage": "https://github.com/aliatsis/piller",
   "repository": {
-    "url": "https://github.com/relateiq/piller.git"
+    "url": "https://github.com/aliatsis/piller.git"
   },
   "bugs": {
-    "url": "https://github.com/relateiq/piller/issues"
+    "url": "https://github.com/aliatsis/piller/issues"
   },
   "iqproj": {
     "app": true,
